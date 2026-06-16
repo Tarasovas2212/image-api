@@ -219,3 +219,10 @@ These were intentionally kept simple for the scope of this task:
   the `StorageService` interface is the single seam to make that change.
 - **GIF** inputs are normalized to PNG (animation is dropped) to keep processing simple.
 - **Auth** is out of scope and not implemented.
+
+## Demo
+
+https://github.com/user-attachments/assets/916db208-ec86-45d4-915f-f591a70e02e7
+
+
+
